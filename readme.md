@@ -1,5 +1,9 @@
 # Creating New Incident on Service Now w/ PowerShell Script
 
+## Watch Me Do This Lab HERE
+
+https://www.loom.com/share/d0c9dd203f154876a601583c8013b408 
+
 ## Project Overview
 
 This lab documents the use of a PowerShell script to automate the creation of an incident on Service Now.
